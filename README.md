@@ -1,4 +1,4 @@
-# Adi.js
+# Adi.js :no_entry_sign:
 Lightweight jQuery plugin for Adblock detection
 
 ![Thumb](http://i.imgur.com/EihVW9a.jpg)

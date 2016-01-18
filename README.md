@@ -1,4 +1,4 @@
-# Adi.js :no_entry_sign:
+# Adi.js :japanese_ogre:
 Lightweight jQuery plugin for Adblock detection
 
 ![Thumb](http://i.imgur.com/EihVW9a.jpg)
